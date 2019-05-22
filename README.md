@@ -2,5 +2,5 @@
 
 This repository will host my Adult Swim Experiments including Animations and Graphics Content.
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/AdultSwim.svg/2000px-AdultSwim.svg.png)
+![Logo](adultswim.hyperesources/thumbnail.png)
 
